@@ -1,2 +1,2 @@
-# DSA-PRATICE
+# DSA-practice
 My daily dsa question pratice
